@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Gundam",
+        "price": "1000000",
+        "description": "Gundam adalah sebuah action figure"
+    },
+    {
+        "id": 2,
+        "name": "figure mh",
+        "price": "299.000",
+        "description": "figure monster hunter"
+    }
+]
